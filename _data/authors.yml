@@ -1,12 +1,12 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      jdecent                                       # used for author lookup in posts and for first two characters in the about page back button
-  name:         "Jekyll Decent"                               # used to display author name
+  initial:      jdecent                               # used for author lookup in posts and for first two characters in the about page back button
+  name:         "Kim Hyunsoo"                               # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
-  bio:          This is my bio!                               # OPTIONAL: text below author name in posts
-  location:     Germany                                       # OPTIONAL: used to display location of the author
-  website:                          						  # OPTIONAL: link to the author of a post
-  email:                                                      # OPTIONAL: used in the about page
+  bio:          This is my blog                               # OPTIONAL: text below author name in posts
+  location:     korean                                        # OPTIONAL: used to display location of the author
+  website:   https://github.com/Keemhs1210                       						              # OPTIONAL: link to the author of a post
+  email: kimhs1210@gmail.com                                                     # OPTIONAL: used in the about page
   twitter:                                                    # OPTIONAL: used in the about page
   linkedin:                                                   # OPTIONAL: used in the about page
   xing:                                                       # OPTIONAL: used in the about page
@@ -25,20 +25,20 @@ default:                                                      # Fallback if noth
   reddit:                                                     # OPTIONAL: used in the about page
 jdecent:
   initial:      jdecent
-  name:         "Jekyll Decent"       
+  name:         "Kim Hyunsoo"       
   cover:        /assets/mountain-alternative-cover.jpg  
   picture:      /assets/johndoe.jpg  
-  bio:          This is my bio!
-  location:     Germany
-  email:        "-"   
+  bio:          This is my blog!
+  location:     Korea
+  email:        "kimhs1210@gmail.com"   
   twitter:      "-"    
   twitch:       "-"
 jwillmer:
   initial:      jwillmer
-  name:         "Jens Willmer"        
+  name:         "Kim Hyunsoo"        
   picture:      /assets/jwillmer.jpg  
   bio:          All about technology 
-  location:     Germany 
+  location:     Korean 
   website:      "http://jwillmer.de/cv" 
   twitter:      jenswillmer
   github:       jwillmer
