@@ -10,7 +10,7 @@ excerpt:   This page contains the curriculum vitae (CV) of the author.
 --- 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-##Introduce My Self## 👋
+## Introduce My Self  👋 ##
 - Name: Kim Hyunsoo
 - University: Korea Poloytechnic University
 - Major: Electronics Engineering
@@ -20,7 +20,7 @@ excerpt:   This page contains the curriculum vitae (CV) of the author.
 - SW langauge: C/C++, Python, VHDL
 - SW Tool: Mathlab, Orcad
 - Contact: kimhs1210@gmail.com
-- 
+
 <p class="github-button-container">
-<a class="github-button" href="https://github.com/Keemhs1210" data-size="large" data-show-count="true">Keemhs Git Address</a>
+<a class="github-button" href="https://github.com/Keemhs1210" data-size="large" data-show-count="false">Keemhs Git Address</a>
 </p>
